@@ -107,3 +107,5 @@ iot334.com
 wbagora.com
 wbinsights.com
 wbgames.com
+r2.garudalinux.org
+garudalinux.org
