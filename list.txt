@@ -126,4 +126,5 @@ iot334.com
 wbagora.com
 wbinsights.com
 wbgames.com
-
+web.whatsapp.com
+whatsapp.com
