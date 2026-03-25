@@ -151,3 +151,4 @@ whatsapp.info
 ping-admin.com
 bsky.app
 linuxiac.com
+ntc.party
