@@ -152,8 +152,4 @@ ping-admin.com
 bsky.app
 linuxiac.com
 ntc.party
-habr.com
-www.habr.com
-habrastorage.org
-account.habr.com
-assets.habr.com
+
