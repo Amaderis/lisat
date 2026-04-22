@@ -161,3 +161,4 @@ receive-ws.erl.nintendo.net
 kiwix.org
 library.kiwix.org
 protondb.com
+deepl.com
