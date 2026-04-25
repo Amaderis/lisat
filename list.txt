@@ -163,3 +163,4 @@ library.kiwix.org
 protondb.com
 deepl.com
 bbc.com
+mirror.cachyos.org
