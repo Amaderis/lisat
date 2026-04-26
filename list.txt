@@ -152,9 +152,6 @@ ping-admin.com
 bsky.app
 linuxiac.com
 ntc.party
-*.nintendo.net
-*.nintendo.com
-*.nintendo.co.jp
 sun.hac.lp1.d4c.nintendo.net
 receive-lp1.erl.nintendo.net
 receive-ws.erl.nintendo.net
