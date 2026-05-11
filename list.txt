@@ -309,3 +309,4 @@ static.kde.org
 images.pling.com
 files06.pling.com
 autoconfig.kde.org
+ovdinfo.legal
