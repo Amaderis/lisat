@@ -313,3 +313,10 @@ mirror.rain.ne.jp
 mirror.ps.kz
 repo.ialab.dsu.edu
 mirrors.xtom.com
+store.kde.org
+api.kde-look.org
+ocs.kde.org
+download.kde.org
+opendesktop.org
+cdn.thingiverse.com
+dl.opendesktop.org
