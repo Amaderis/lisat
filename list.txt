@@ -294,3 +294,4 @@ mirror.ps.kz
 repo.ialab.dsu.edu
 mirrors.xtom.com
 ovdinfo.legal
+calimove.com
