@@ -219,7 +219,7 @@ mirrors.ukfast.co.uk
 vlst.su
 ord.mirror.rackspace.com
 iad.mirrors.misaka.one
-arch.hu.fo
+arch.hu.focreative-assembly.com/
 arch.owochle.app
 mirror.wdc1.us.leaseweb.net
 coresite.mm.fcix.net
@@ -300,3 +300,4 @@ tampermonkey.net
 rainviewer.com
 codewars.com
 sega-account.com
+creative-assembly.com/
