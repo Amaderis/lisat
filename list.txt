@@ -287,7 +287,7 @@ arch.mirror.k0.ae
 ziply.mm.fcix.net
 singapore.mirror.pkgbuild.com
 mirror.aarnet.edu.au
-mirror.retropc.se
+mirror.retropc.sesega-account.com
 forksystems.mm.fcix.net
 mirror.rain.ne.jp
 mirror.ps.kz
@@ -299,3 +299,4 @@ dnscrypt.info
 tampermonkey.net
 rainviewer.com
 codewars.com
+sega-account.com
