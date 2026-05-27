@@ -300,4 +300,4 @@ tampermonkey.net
 rainviewer.com
 codewars.com
 sega-account.com
-creative-assembly.com/
+creative-assembly.com
