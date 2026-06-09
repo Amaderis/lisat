@@ -302,3 +302,9 @@ codewars.com
 sega-account.com
 creative-assembly.com
 feralinteractive.com
+amazonaws.com
+cloudfront.com
+sgaas.net
+cait-cloud.net
+totalwar.com
+epicgames.dev
