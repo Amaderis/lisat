@@ -15,7 +15,7 @@ hornet.com
 copilot.microsoft.com
 microsoft.com
 pornhub.com
-myreadingmanga.info
+myreadingmanga.infomarcusspencer.us
 spotify.com
 gmx.com
 support.gmx.com
@@ -219,7 +219,7 @@ mirrors.ukfast.co.uk
 vlst.su
 ord.mirror.rackspace.com
 iad.mirrors.misaka.one
-arch.hu.focreative-assembly.com/
+arch.hu.focreative-assembly.com
 arch.owochle.app
 mirror.wdc1.us.leaseweb.net
 coresite.mm.fcix.net
@@ -269,7 +269,7 @@ mirror.maa.albony.in
 mirrors.jlu.edu.cn
 mirrors.cat.net
 irltoolkit.mm.fcix.net
-arch.mirror.marcusspencer.us:4443
+arch.mirror.marcusspencer.us
 ftp.yz.yamagata-u.ac.jp
 mirror.5i.fi
 mirror.init7.net
