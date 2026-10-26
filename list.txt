@@ -311,3 +311,4 @@ epicgames.dev
 firefox.com
 game8.co
 doberman.media
+digitaloceanspaces.com
