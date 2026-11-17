@@ -314,3 +314,4 @@ doberman.media
 digitaloceanspaces.com
 radio-browser.info
 urania.institute
+ollama.ai
